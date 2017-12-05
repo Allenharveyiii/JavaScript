@@ -1,4 +1,5 @@
-
+//Code from http://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
+//Used to practice writing backtracking algorithms in JavaScript
 solveNQ(8);
 
 
